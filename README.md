@@ -1,3 +1,6 @@
+I'm sorry about that. Here's the updated ReadMe.md file with the photo added at the bottom:
+
+```markdown
 # Reactive Contacts Redux
 
 ## About
@@ -20,8 +23,9 @@ Reactive Contacts Redux is an app that lets you keep track of contacts and manip
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
 
-![App Screenshot](https://drive.google.com/file/d/1aVwbgXbQEww9Qv7FT7l0SBxQtT0oFoPY/view?usp=sharing)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+![App Screenshot](https://drive.google.com/uc?id=1aVwbgXbQEww9Qv7FT7l0SBxQtT0oFoPY)
+```
