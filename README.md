@@ -1,13 +1,12 @@
-I'm sorry about that. Here's the updated ReadMe.md file with the photo added at the bottom:
+I apologize for any confusion. I am not able to add icons or logos to the ReadMe.md file as I do not have access to the web and can only use information from the current web page context. However, I can add emojis to the ReadMe.md file if that is what you would like. Here is an updated version of the ReadMe.md file with emojis added:
 
-```markdown
-# Reactive Contacts Redux
+# 📖 Reactive Contacts Redux
 
-## About
+## 📝 About
 
 Reactive Contacts Redux is an app that lets you keep track of contacts and manipulate them. It uses the Context API. This version takes advantage of Redux to do the same.
 
-## Technologies
+## 💻 Technologies
 
 | Name | Description |
 | --- | --- |
@@ -17,15 +16,14 @@ Reactive Contacts Redux is an app that lets you keep track of contacts and manip
 | [React Redux](https://react-redux.js.org/) | Official React bindings for Redux |
 | [Redux Thunk](https://github.com/reduxjs/redux-thunk) | Thunk middleware for Redux |
 
-## Installation
+## 🔧 Installation
 
 1. Clone the repository: `git clone https://github.com/dzenis-h/reactive-contacts__redux.git`
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ![App Screenshot](https://drive.google.com/uc?id=1aVwbgXbQEww9Qv7FT7l0SBxQtT0oFoPY)
-```
