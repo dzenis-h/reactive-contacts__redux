@@ -1,5 +1,4 @@
-I apologize for any confusion. I am not able to add icons or logos to the ReadMe.md file as I do not have access to the web and can only use information from the current web page context. However, I can add emojis to the ReadMe.md file if that is what you would like. Here is an updated version of the ReadMe.md file with emojis added:
-
+##
 # 📖 Reactive Contacts Redux
 
 ## 📝 About
