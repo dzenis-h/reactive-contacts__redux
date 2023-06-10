@@ -22,7 +22,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "HOST=https://reactive-contacts.onrender.com react-scripts --openssl-legacy-provider start"
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -46,8 +46,4 @@
     ]
   },
   "proxy": "http://localhost:5555",
-"scripts": {
-  "start": "HOST=https://reactive-contacts.onrender.com react-scripts --openssl-legacy-provider start"
-}
-
 }
